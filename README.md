@@ -9,7 +9,13 @@ Passionate about building scalable, real-time, and user-friendly web application
 
 ![Full Stack](./assets/Full-Stack-Development.png)
 
-<p align="left">
+<p align="center">
+  <a href="https://www.boot.dev/u/m-umair-kn" target="_blank">
+    <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" alt="Muhammad Umair's Boot.dev Profile Card">
+  </a>
+</p>
+
+<p align="center">
   <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" >
 </p>
 
