@@ -12,7 +12,7 @@ Passionate about building scalable, real-time, and user-friendly web application
 </p>
 <p align="center">
   <a href="https://www.boot.dev/u/mumairdotdev" target="_blank" align="center">
-    <i> Link to Boot.dev profile </i>
+    Link to <i>Boot.dev</i> profile 
   </a>
 </p>
 
