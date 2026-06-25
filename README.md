@@ -5,10 +5,11 @@
 **Full Stack Web Application Developer**  
 Passionate about building scalable, real-time, and user-friendly web applications.
 
-![Full Stack](./assets/Full-Stack-Development.png)
+
+<img src="./assets/Full-Stack-Development.png" alt="Full Stack" width="640" height="360">
 
 <p align="center">
-  <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" >
+  <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" width="640" height="360">
 </p>
 <p align="center">
   <a href="https://www.boot.dev/u/mumairdotdev" target="_blank" align="center">
