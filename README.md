@@ -5,15 +5,13 @@
 **Full Stack Web Application Developer**  
 Passionate about building scalable, real-time, and user-friendly web applications.
 
-![Profile Views](https://komarev.com/ghpvc/?username=m-umair-kn&color=blue&style=flat)
-
 ![Full Stack](./assets/Full-Stack-Development.png)
 
 <p align="center">
   <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" >
 </p>
 <p align="center">
-  <a href="https://www.boot.dev/u/m-umair-kn" target="_blank" align="center">
+  <a href="https://www.boot.dev/u/mumairdotdev" target="_blank" align="center">
     <i> Link to Boot.dev profile </i>
   </a>
 </p>
@@ -70,13 +68,13 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 ---
 
 ## 📫 Connect With Me
-- LinkedIn: [Muhammad Umair](https://www.linkedin.com/in/m-umair-kn/)
-- GitHub: [m-umair-kn](https://github.com/m-umair-kn)
+- LinkedIn: [Muhammad Umair](https://www.linkedin.com/in/mumairdotdev/)
+- GitHub: [mumairdotdev](https://github.com/mumairdotdev)
 - Email: *(m.umair.kn@gmail.com)*
 
 ---
 
-⭐️ From [m-umair-kn](https://github.com/m-umair-kn)
+⭐️ From [mumairdotdev](https://github.com/mumairdotdev)
 
 
 
