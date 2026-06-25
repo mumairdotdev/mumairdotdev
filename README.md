@@ -69,12 +69,11 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 
 ## 📫 Connect With Me
 - LinkedIn: [Muhammad Umair](https://www.linkedin.com/in/mumairdotdev/)
-- GitHub: [mumairdotdev](https://github.com/mumairdotdev)
-- Email: *(m.umair.kn@gmail.com)*
+- GitHub: [@mumairdotdev](https://github.com/mumairdotdev)
 
 ---
 
-⭐️ From [mumairdotdev](https://github.com/mumairdotdev)
+⭐️ From [M. Umair](https://github.com/mumairdotdev)
 
 
 
