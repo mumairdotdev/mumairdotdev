@@ -6,10 +6,10 @@
 Passionate about building scalable, real-time, and user-friendly web applications.
 
 
-<img src="./assets/Full-Stack-Development.png" alt="Full Stack" width="640" height="360">
+<img src="./assets/Full-Stack-Development.png" alt="Full Stack" width="640">
 
 <p>
-  <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail" width="640" height="360">
+  <img src="https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail">
 </p>
 <p>
   <a href="https://www.boot.dev/u/mumairdotdev" target="_blank" align="center">
