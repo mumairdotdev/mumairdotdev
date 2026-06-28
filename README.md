@@ -6,9 +6,7 @@
 Passionate about building scalable, real-time, and user-friendly web applications.
 
 
-<img src="./assets/Full-Stack-Development.png" alt="Full Stack" width="640">
-
-[![My boot.dev profile](https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail)](https://www.boot.dev/u/mumairdotdev "Whenever I’m not building projects, I’m on Boot.dev sharpening my skills. Feel free to check it out!")
+<img src="./assets/Full-Stack-Development.png" alt="Full Stack">
 
 ## 🚀 About Me
 I am a dedicated Full Stack Developer with expertise in designing and developing modern web applications. My focus is on creating seamless user experiences, robust backend systems, and integrating real-time communication features. I thrive on solving complex problems and delivering efficient solutions.
@@ -60,13 +58,11 @@ I am a dedicated Full Stack Developer with expertise in designing and developing
 - Hands-on experience with **real-time communication protocols**.
 
 ---
+[![My boot.dev profile](https://api.boot.dev/v1/users/public/83ca059f-cd73-42b6-a4da-9933437d2fec/thumbnail)](https://www.boot.dev/u/mumairdotdev "Whenever I’m not building projects, I’m on Boot.dev sharpening my skills. Feel free to check it out!")
+---
 
 ## 📫 Connect With Me
 - LinkedIn: [Muhammad Umair](https://www.linkedin.com/in/mumairdotdev/)
-
----
-
-⭐️ From Muhammad Umair
 
 
 
