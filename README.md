@@ -14,12 +14,12 @@ My interest in software began long before I wrote my first line of code. As a ki
 ---
 
 ## 🛠️ Skills
-Languages: JavaScript, TypeScript, Python, Go
-Frontend: React, Next
-Backend: Go, Node, Express, Django
-Databases: Postgres, MySQL, Mongo
-Cloud: Docker, AWS
-Tools: VS Code, Git, GitHub, GitHub Copilot
+- **Languages**: JavaScript, TypeScript, Python, Go
+- **Frontend**: React, Next
+- **Backend**: Go, Node, Express, Django
+- **Databases**: Postgres, MySQL, Mongo
+- **Cloud**: Docker, AWS
+- **Tools**: VS Code, Git, GitHub, GitHub Copilot
 
 ---
 
