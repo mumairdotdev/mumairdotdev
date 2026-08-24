@@ -9,7 +9,7 @@ Passionate about building scalable, real-time, and user-friendly web application
 <img src="./assets/Full-Stack-Development.png" alt="Full Stack">
 
 ## 🚀 About Me
-I am a dedicated Full Stack Developer with expertise in designing and developing modern web applications. My focus is on creating seamless user experiences, robust backend systems, and integrating real-time communication features. I thrive on solving complex problems and delivering efficient solutions.
+My interest in software began long before I wrote my first line of code. As a kid, I spent hours repairing computers, troubleshooting Windows, and figuring out how software worked under the hood. That curiosity led me to Computer Science, where I graduated with a 3.8/4.0 CGPA and ranked among the top five students in a cohort of over 2,000 for two consecutive semesters. Most recently, I worked as a freelance full-stack developer, delivering production features including real-time communication, authentication, payments, and project management. I'm excited to bring the same curiosity and problem-solving mindset to a remote engineering team building reliable software.
 
 ---
 
