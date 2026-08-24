@@ -13,30 +13,13 @@ My interest in software began long before I wrote my first line of code. As a ki
 
 ---
 
-## 🛠️ Tech Stack & Expertise
-- **Frontend Development**
-  - React.js, Next.js
-  - HTML5, CSS3, TailwindCSS, Bootstrap
-  - Responsive UI/UX design
-
-- **Backend Development**
-  - Node.js, Express.js
-  - REST APIs & GraphQL
-  - Real-time communication with **Socket.IO & WebSockets**
-
-- **Database Management**
-  - MongoDB, PostgreSQL, MySQL
-  - Database design & optimization
-
-- **DevOps & Tools**
-  - Git & GitHub
-  - Docker & CI/CD pipelines
-  - Cloudinary (media asset management)
-
-- **Other Skills**
-  - Authentication & Authorization (JWT, OAuth)
-  - Payment Gateway Integration
-  - Agile Development & Collaboration
+## 🛠️ Skills
+Languages: JavaScript, TypeScript, Python, Go
+Frontend: React, Next
+Backend: Go, Node, Express, Django
+Databases: Postgres, MySQL, Mongo
+Cloud: Docker, AWS
+Tools: VS Code, Git, GitHub, GitHub Copilot
 
 ---
 
